@@ -1,9 +1,6 @@
 ## AIRPODPRO WEB APP
 
 
-## By Anita Kahenya
-###  17th December 2020
-
 #### Link to live page
   [https://ecstatic-knuth-b7a836.netlify.app/]
 
@@ -17,10 +14,4 @@
  * JS
 
 ## Contact Details
-For any inqueries, further comments or questions you can reach me through my email [anitakahenya1@gmail.com](AnitaKahenya)
 
-
-### [License](LICENSE)
-MIT license
-Copyright (c) 2020 
-**Anita Kahenya**
